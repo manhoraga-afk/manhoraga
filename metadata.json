@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ForgeAI Architect",
+  "description": "Local-first AI Developer Agent powered by Gemini & Python.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
